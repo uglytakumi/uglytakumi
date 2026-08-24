@@ -1,4 +1,5 @@
-## Hi there 👋
+<img width="3075" height="2097" alt="Untitled1606_20260824155059" src="https://github.com/user-attachments/assets/f6e3ce67-6ab6-4421-8fee-491579fe3002" />
+
 
 <!--
 **uglytakumi/uglytakumi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
