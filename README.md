@@ -1,4 +1,6 @@
-<img width="3075" height="2097" alt="Untitled1606_20260824155059" src="https://github.com/user-attachments/assets/f6e3ce67-6ab6-4421-8fee-491579fe3002" />
+<img width="366" height="320" alt="IMG_6110" src="https://github.com/user-attachments/assets/ee3676a0-0b95-4602-9f08-012e0ea2970f" />
+
+
 
 
 <!--
@@ -14,4 +16,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
---> ⠀⠀⠀⠀⠀⠀21↑ ⠀⠀⠀off-tab ⠀⠀⠀w2i
+-->
