@@ -1,5 +1,5 @@
 <img width="6150" height="4194" alt="Untitled1733_20261026063217" src="https://github.com/user-attachments/assets/f6fa8355-d531-4869-9ee7-6540f64927c4" />
-<a href="https://eitaku.atabook.org">新book</a>  
+
 
 
 
