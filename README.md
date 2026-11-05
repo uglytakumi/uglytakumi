@@ -1,4 +1,6 @@
-<img width="6150" height="4194" alt="Untitled1733_20261026063217" src="https://github.com/user-attachments/assets/f6fa8355-d531-4869-9ee7-6540f64927c4" />
+<div id="text" align="center">
+<img width="6150" height="4194" alt="Untitled1733_20261026063217" src="https://github.com/user-attachments/assets/9064e63e-4b31-4362-8797-cf9171bfe744" />
+ <a href="https://eitaku.atabook.org">新book<a> 
 
 
 
